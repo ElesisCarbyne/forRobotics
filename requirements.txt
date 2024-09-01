@@ -1,0 +1,11 @@
+matplotlib
+numpy
+control
+scipy
+sympy
+osqp
+casadi
+jupyterlab
+notebook
+msvc-runtime
+kiwisolver
